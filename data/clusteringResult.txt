@@ -1,0 +1,3 @@
+Cluster 1 : 63.9% - center *AAAAAAAAAA:*
+Cluster 2 : 21.8% - center *ABCBBABBBA:*
+Cluster 3 : 14.2% - center *ABACCCDCDE:*
